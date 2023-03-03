@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently working on the youtube-clone project: learning AWS and improving my NextJS and tailwind skills.
+- 🌱 I’m currently working on the Kawaii Moment project: learning AWS and improving my NextJS and tailwind skills.
 - 💞️ Happy to collaborate!
 - 📫 Reach me via lyjeileen@gmail.com
 
