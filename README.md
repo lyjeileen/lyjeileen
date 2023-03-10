@@ -3,9 +3,9 @@
 
 <br>
 
-- 🌱 I’m currently working on the Kawaii Moment project: learning AWS and improving my NextJS and tailwind skills.
+- 🌱 I’m currently working on my portfolio website and learning typescript.
 - 💞️ Happy to collaborate!
-- 📫 Reach me via lyjeileen@gmail.com
+- 📫 Reach me via yuejiao.li.eileen@gmail.com
 
 <br>
 
