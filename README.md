@@ -155,7 +155,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://i.dlpng.com/static/png/7044160_preview.png"
+        src="https://cdn4.iconfinder.com/data/icons/scripting-and-programming-languages/512/JQuery_logo-512.png"
         width="48"
         height="48"
         alt="JQUERY"
