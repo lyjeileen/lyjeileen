@@ -1,11 +1,9 @@
 <h1 align="center">Yuejiao Li (Eileen)</h1>
-<h2 align="center">Full-Stack Web Developer</h2>
+<h2 align="center">Software Engineer</h2>
 
 <br>
 
-- 🌱 I’m currently working on my portfolio website and learning typescript.
-- 💞️ Happy to collaborate!
-- 📫 Reach me via yuejiao.li.eileen@gmail.com
+📫 Reach me via yuejiao.li.eileen@gmail.com
 
 <br>
 
