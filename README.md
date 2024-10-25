@@ -1,5 +1,4 @@
-<h1 align="center">Yuejiao Li (Eileen)</h1>
-<h2 align="center">Software Engineer</h2>
+<h1 align="center">Yuejiao Li (Eileen) </h1>
 
 <br>
 
